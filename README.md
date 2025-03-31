@@ -68,4 +68,17 @@ Headings and subheadings improve readability and organization by breaking conten
 - Keep them brief while ensuring they provide enough context.  
 
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
+- A brief description of what the product is and its main purpose.  
+- Key features or functionalities it offers.  
+- The primary problem it solves or how it benefits users.  
+- A simple use case or example scenario.  
+- A link to further documentation or resources if needed.  
+
 ## 12. How can you succinctly convey the purpose and key features of a product?
+- Start with a one-sentence funfact or statistic fact (eg: do you know  that 80%...)
+- Explain what the product does and who it benefits.  
+- Highlight the main problem it solves or its key value proposition.  
+- List a few core features using bullet points for clarity.  
+- Keep the language simple and direct, avoiding unnecessary technical jargon.  
+- Use a live demo example to demostrate how the software solves solution.
+- Keep the whole software pitching short for about 3-5mins.
